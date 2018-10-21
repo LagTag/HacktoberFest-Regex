@@ -1,7 +1,7 @@
 # HacktoberFest-Regex
 Add useful Regex Scripts and Programs.
 
-Find the directory with your language (add it if it does not exist). Then find the project/collection your regex falls under (again add a directory if your program doesn't yet fit any criteria)
+Find the directory with your language (add it if it does not exist). Then add your regex program. Please keep the directories and file naming schemes consistent with what is already in the repo.
 
 # Hacktoberfest 2018
  Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>
