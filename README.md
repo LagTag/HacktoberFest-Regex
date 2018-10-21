@@ -52,6 +52,3 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 
-
-
-This is just a place to collect usefule Regex
